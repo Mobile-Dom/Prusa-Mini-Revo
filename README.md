@@ -1,2 +1,2 @@
 # Prusa-Mini-Revo
-a modified heatsink ofr hte Prusa Mini with support for the E3D revo nozzle breaks and heatercores
+a modified heatsink for the Prusa Mini with support for the E3D revo nozzle breaks and heatercores
